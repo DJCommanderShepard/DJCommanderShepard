@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>- 👋 Hi, I’m @DJCommanderShepard</title>
+    <title>- 👋 Hi, I’m @DJCommanderShepard </title>
   <style> 
     .custome-list {
       list-style-type: square; 
